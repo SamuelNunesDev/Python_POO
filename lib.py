@@ -1,1 +1,0 @@
-#criação de uma lib em python.
